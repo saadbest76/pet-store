@@ -1,0 +1,10 @@
+import Container from '../../components/Container';
+
+export default function PrivacyPage() {
+  return (
+    <Container className="py-12">
+      <h1 className="text-2xl font-bold mb-4">Privacy Policy</h1>
+      <p>This is a placeholder privacy policy.</p>
+    </Container>
+  );
+}
